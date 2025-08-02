@@ -47,5 +47,5 @@ cd techx
 ensure you have installed node.js and run:
 npm install
 
-###Running in Development
+### Running in Development
 npm run dev
