@@ -16,8 +16,6 @@ A modern, full-stack TypeScript boilerplate for rapid web development—featurin
    1. [Prerequisites](#prerequisites)  
    2. [Installation](#installation)  
    3. [Running in Development](#running-in-development)  
-5. [Configuration](#configuration)  
-7. [Tech Stack](#tech-stack)
 
 ---
 
